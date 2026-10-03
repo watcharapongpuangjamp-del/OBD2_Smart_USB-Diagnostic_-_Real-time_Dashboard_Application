@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- FTDI Chipset (FT232R, etc.) -->
+    <usb-device vendor-id="1027" />
+    
+    <!-- Prolific Chipset (PL2303) -->
+    <usb-device vendor-id="1659" />
+    
+    <!-- Qinheng / WCH Chipset (CH340, CH341) -->
+    <usb-device vendor-id="6790" />
+    <usb-device vendor-id="10888" />
+    
+    <!-- Silicon Labs Chipset (CP2102, CP2105) -->
+    <usb-device vendor-id="4292" />
+</resources>
