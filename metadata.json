@@ -1,6 +1,6 @@
 {
   "name": "OBD2 Smart USB",
-  "description": "Comprehensive OBD2 Diagnostic & Dashboard via ELM327 USB adapter.",
+  "description": "Comprehensive OBD2 Diagnostic & Dashboard via ELM327 USB adapter with AI-powered fault analysis.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
